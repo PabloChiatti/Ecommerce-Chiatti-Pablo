@@ -8,7 +8,7 @@ const Greeting = (props) => {
       </View>
     );
 }
-
+let LotsOfGreeting
 export default LotsOfGreeting = () => {
     return (
       <View style={{alignItems: 'center', top: 50}}>
